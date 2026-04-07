@@ -1,0 +1,22 @@
+{
+  "icon": "waves",
+  "title": "About DeepBlue",
+  "description": "DeepBlue is a community of ocean enthusiasts, marine biologists, and conservationists dedicated to sharing the wonders of our blue planet. Founded in 2020, we've grown to a community of over 15,000 readers who care deeply about marine life and ocean conservation.",
+  "stats": [
+    {
+      "id": 1,
+      "value": "500+",
+      "label": "Articles Published"
+    },
+    {
+      "id": 2,
+      "value": "50+",
+      "label": "Marine Biologists"
+    },
+    {
+      "id": 3,
+      "value": "15K+",
+      "label": "Community Members"
+    }
+  ]
+}

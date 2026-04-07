@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "The Gentle Giants: Understanding Whale Migration",
+    "date": "Oct 12, 2024",
+    "author": "Dr. Sarah Chen",
+    "image": "https://images.unsplash.com/photo-1568430462989-44163eb1752f?ixlib=rb-4.0.3&auto=format&fit=crop&w=2072&q=80",
+    "excerpt": "Every year, thousands of humpback whales travel thousands of miles to breed in warm waters. We follow their journey."
+  },
+  {
+    "id": 2,
+    "title": "Bioluminescence: Nature's Light Show",
+    "date": "Sep 28, 2024",
+    "author": "Elena Rossi",
+    "image": "https://images.unsplash.com/photo-1551244072-5d12893278ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=2232&q=80",
+    "excerpt": "Deep beneath the waves, creatures create their own light. Discover the science behind this magical phenomenon."
+  },
+  {
+    "id": 3,
+    "title": "Sea Turtles: Ancient Navigators",
+    "date": "Sep 15, 2024",
+    "author": "Dr. Sarah Chen",
+    "image": "https://images.unsplash.com/photo-1437622368342-7a3d73a34c8f?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80",
+    "excerpt": "These remarkable creatures have existed for over 100 million years. Learn about their incredible navigation abilities."
+  },
+  {
+    "id": 4,
+    "title": "Jellyfish: Drifting Through Time",
+    "date": "Aug 22, 2024",
+    "author": "Lena Frost",
+    "image": "https://images.unsplash.com/photo-1546500840-ae38253aba9b?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80",
+    "excerpt": "These ethereal creatures have survived five mass extinctions. What makes them so resilient?"
+  }
+]

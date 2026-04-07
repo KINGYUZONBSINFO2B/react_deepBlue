@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Coral Bleaching: A Silent Emergency",
+    "date": "Oct 08, 2024",
+    "author": "Anna Miller",
+    "image": "https://images.unsplash.com/photo-1546026423-cc4642628d2b?ixlib=rb-4.0.3&auto=format&fit=crop&w=987&q=80",
+    "excerpt": "Rising ocean temperatures are causing widespread coral bleaching. What can we do to save these vital ecosystems?"
+  },
+    {
+        "id": 2,
+        "title": "Protecting Sea Grass Habitats",
+        "date": "Sep 30, 2024",
+        "author": "Marco Lee",
+        "image": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80",
+        "excerpt": "Sea grass meadows are one of the ocean's most important carbon sinks. Explore why these underwater fields matter."
+    }
+]
