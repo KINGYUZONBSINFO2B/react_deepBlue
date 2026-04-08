@@ -30,7 +30,7 @@ const Hero = () => {
           <span className="inline-block py-1 px-3 rounded-full bg-[var(--color-primary-dark)] border border-cyan-500/30 text-cyan-300 text-sm font-semibold tracking-wider mb-6 uppercase">
             Explore the Unknown
           </span>
-          <h1 className="text-5xl md:text-7xl font-merriweather font-bold text-white leading-tight mb-6">
+          <h1 className="text-5xl md:text-7xl font-merriweather font-bold text-white leading-tight mb-6 soft-pulse">
             Discover the Secrets of the{" "}
             <span className="text-[var(--color-primary)]">Deep</span>
           </h1>
